@@ -3,11 +3,10 @@
 <body>
 <h1>Hello World</h1>
 <hr>
-<p>testing how html handles whitespace
-there is
-some white
-space here
-but the browswer ignores it?
-</p>
+<pre>
+ THIS IS THE PRE FORMATTED TEXT
+ IM NOT SURE HOW IT WORKS
+ BUT IT IS USED AS A POEM EXAMPLE IN
+</pre>
 </body>
 </html>
