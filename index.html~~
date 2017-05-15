@@ -7,7 +7,7 @@
 in html there are all sorts of different types of formattting elements
 such as <b> bold </b> <small>small</small> <sub>subscripted</sub> 
 <sup>superscripted</sup> <ins>inserted</ins> <del>deleted</del> and <mark>highlighted</mark>
-</p>
+=======
 <p>testing how html handles whitespace
 there is
 some white
