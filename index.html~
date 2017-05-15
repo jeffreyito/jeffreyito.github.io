@@ -6,11 +6,13 @@
 <pre style="color:red;">
 this is a preformatted test testing just a different color.
 </pre>
-<p style="color=yellow; font-family:courier;">
-this paragraph is testing a differnt font color and font family.
-</p>
-<p style="font-size=300%;">
-this paragraph is testing font size.
-</p>
+<p style="color:yellow; font-family:courier;">
+this paragraph is testing a differnt font color and font family.</p>
+<p style="font-size:300%;">
+this paragraph is testing font size.</p>
+<p style="text-align:center;">
+this paragraph should be center aligned.</p>
+<h2 style="text:align:right;">
+HEADER2-RIGHT ALIGNED</h2>
 </body>
 </html>
