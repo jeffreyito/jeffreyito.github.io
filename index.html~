@@ -3,10 +3,18 @@
 <body style="background-color:powderblue;">
 <h1 style="color:blue;">Hello World</h1>
 <hr>
+<<<<<<< HEAD
 <p>
 in html there are all sorts of different types of formattting elements
 such as <b> bold </b> <small>small</small> <sub>subscripted</sub> 
 <sup>superscripted</sup> <ins>inserted</ins> <del>deleted</del> and <mark>highlighted</mark>
+=======
+<p>testing how html handles whitespace
+there is
+some white
+space here
+but the browswer ignores it?
+>>>>>>> parent of 8f4c3ea... changing background color to powderblue
 </p>
 </body>
 </html>
