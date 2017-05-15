@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html>
-<body>
-<h1>Hello World</h1>
+<body style="background-color:powderblue;">
+<h1 style="color:blue;">Hello World</h1>
 <hr>
-<pre>
- THIS IS THE PRE FORMATTED TEXT
- IM NOT SURE HOW IT WORKS
- BUT IT IS USED AS A POEM EXAMPLE IN
+<pre style="color:red;">
+this is a preformatted test testing just a different color.
 </pre>
+<p style="color=yellow; font-family:courier;">
+this paragraph is testing a differnt font color and font family.
+</p>
+<p style="font-size=300%;">
+this paragraph is testing font size.
+</p>
 </body>
 </html>
